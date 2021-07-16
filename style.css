@@ -1,0 +1,18 @@
+.jumbotron {
+padding-top: 6rem;
+background-color: #808080;
+}
+#tentang {
+    background-color: white
+}
+#pendidikan {
+    background-color: #808080;
+}
+
+section {
+    padding-top: 4rem;
+}
+
+#kemampuan {
+    height: 30px;
+}
